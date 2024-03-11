@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+
+    <!--    IMC App-->
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="lowweight">Bajo</string>
+    <string name="lowweightdesc">De acuerdo con la Organización Mundial de la Salud (OMS), su IMC está por debajo de lo recomendado para su estatura. Para alcanzar un valor de IMC dentro de lo normal, su peso debe estar entre 52.2 y 70.3 kg.</string>
+    <string name="normalweight">Normal</string>
+    <string name="normalweightdesc">De acuerdo con la Organización Mundial de la Salud (OMS), su IMC es considerado normal para su estatura. Para mantener el valor de su IMC normal, su peso debe mantenerse entre 52.2 y 70.3 kg.</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="overweightdesc">De acuerdo con la Organización Mundial de la Salud (OMS), su IMC está por encima de lo recomendado para su estatura. Para alcanzar un valor de IMC normal, su peso debe encontrarse entre los 52.2 y 70.3 kg.</string>
+    <string name="obeseI">Obesidad Grado I</string>
+    <string name="obeseIdesc">De acuerdo con la Organización Mundial de la Salud (OMS), su IMC está por encima de lo recomendado para su estatura. Para alcanzar un valor de IMC normal, su peso debe encontrarse entre los 52.2 y 70.3 kg.</string>
+    <string name="obeseII">Obesidad Grado II</string>
+    <string name="obeseIII">Obesidad Grado III</string>
+
+    <!--    ToDoApp-->
+    <string name="todo_title">Bienvenido</string>
+    <string name="todo_category">Categoria</string>
+    <string name="todo_tareas">Tareas</string>
+    <string name="todoapp_hint">Añade  la Tarea</string>
+    <string name="todo_app_business">Negocios</string>
+    <string name="todo_app_other">Otros</string>
+    <string name="todo_app_personal">Personal</string>
+    <string name="todo_app_creartarea">Crear Tarea</string>
+    <string name="Super_Hero_App">SuperHeroApp</string>
+    <string name="Dog_List_App">DogList</string>
+
+
+</resources>

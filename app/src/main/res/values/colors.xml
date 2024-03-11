@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    IMCApp-->
+    <color name="background_component">#1d1e33</color>
+    <color name="background_component_selected">#ff111328</color>
+    <color name="background_app">#0e0820</color>
+    <color name="background_btton">#eb1555</color>
+    <color name="title_text">#ff8d8e98</color>
+
+    <color name="low">#FFEB3B</color>
+    <color name="normal">#4CAF50</color>
+    <color name="over">#FF9800</color>
+    <color name="obese">#FF5722</color>
+    <color name="obeseI">#CA0000</color>
+
+<!--    ToDoApp-->
+    <color name="todo_background_card">#FF081a4a</color>
+    <color name="todo_background_disabled">#787878</color>
+    <color name="todo_background_todoapp">#ff2d4993</color>
+    <color name="todo_subtitle_text">#959595</color>
+    <color name="todo_accent">#e91e63</color>
+
+    <color name="todo_business_category">#ff9800</color>
+    <color name="todo_perosnal_category">#00bcd4</color>
+    <color name="todo_other_category">#4caf50</color>
+
+<!--    superheroapp-->
+    <color name="superhero_item_name">#9A673AB7</color>
+
+    <color name="superhero_stat_intelligence">#4CAF50</color>
+    <color name="superhero_stat_strenght">#FF0000</color>
+    <color name="superhero_stat_power">#FFEB3B</color>
+    <color name="superhero_stat_speed">#FF9800</color>
+    <color name="superhero_stat_combat">#673AB7</color>
+    <color name="superhero_stat_durability">#2196F3</color>
+
+
+</resources>
